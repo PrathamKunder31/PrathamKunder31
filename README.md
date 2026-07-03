@@ -94,13 +94,5 @@ Building Java, Database, and Web Development projects as part of MCA coursework 
 [![](https://komarev.com/ghpvc/?username=PrathamKunder31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-# 📫 Connect With Me
-
-📧 **Email:** prathamkunder19@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/prathamkunder
-
-🐙 **GitHub:** https://github.com/PrathamKunder31
-
-📷 **Instagram:** https://instagram.com/pratham_kunderr
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📫 Connect With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratham_kunderr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prathamkunder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamkunder19@gmail.com) 
