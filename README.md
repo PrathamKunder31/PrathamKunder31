@@ -76,10 +76,10 @@ Practicing and implementing DSA concepts using Java on platforms like LeetCode a
 Building Java, Database, and Web Development projects as part of MCA coursework while applying industry best practices.
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PrathamKunder31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PrathamKunder31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrathamKunder31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrathamKunder31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrathamKunder31&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
